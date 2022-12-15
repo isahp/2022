@@ -1,5 +1,6 @@
 # ANP Sensitivity, the super power
 * Author [Dr. Bill Adams](https://bamath.org)
+* The google slides presentation from the workshop is available [here](https://docs.google.com/presentation/d/1nMpUUIOn4digVzpKR5EzrfZ4zzFqD6WduLycC0PBFEM/edit?usp=sharing)
 
 ## Abstract
 How can you most easily change public opinion on a topic of vital importance?
